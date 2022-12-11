@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "com.albebaubles.ios.libs.geofencing",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:albebaubles/com.albebaubles.iOS.libs.geofencing.git",
+      "state" : {
+        "revision" : "1a68dc7c329f11ca42a7526979899302a2bec6f9",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
